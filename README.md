@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Komal987964
 - 👀 I’m interested in various cutting edge technology!!!!!!!!!
-- 🌱 I’m currently learning ML.
-- 💞️ I’m looking to collaborate on Projects based on Python and DS.
+- 🌱 I’m actively looking for a job.
+- 💞️ I’m looking to collaborate on Projects based on Machine Learning and Data Science.
 - 📫 How to reach me .... komalashtekar74@gmail.com
 
 <!---
